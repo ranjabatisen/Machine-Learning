@@ -7,4 +7,4 @@ HW2 : Softmax regression, linear SVM dual form, kernel SVM and multi-class SVM
 
 HW3 : Fully connected neural network and cnn using Pytorch
 
-HW4 : Gradient boosting, Adaboost and Random forest
+HW4 : Blind boosting, Adaboost and Random forest
